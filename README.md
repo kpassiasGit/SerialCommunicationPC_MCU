@@ -1,4 +1,4 @@
-# kpassias.Github
+# Serial Communication Python
 Communicate PC with MCU via Serial In real Time
 
 
